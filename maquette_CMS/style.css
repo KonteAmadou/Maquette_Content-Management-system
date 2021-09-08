@@ -1,0 +1,117 @@
+@media all and (max-width: 1024px)
+{
+
+
+#logo_menu{
+	display: flex;
+	flex-direction: row;
+	padding-left: 50px;
+	justify-content: space-between;
+	padding-left: 50px;
+	padding-right: 50px;
+
+
+}
+}
+.menu{
+	float: top;
+}
+ul{
+	list-style-type: none;
+	display: flex;
+	flex-direction: row;
+}
+li {
+	padding: 20px;
+}
+#text_ordi{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+.ordi{
+	align-items: right;
+}
+b {
+	font-size: 2em;
+	color:#33428a ;
+}
+.text_bas{
+	color:#33428a ;
+}
+/*body*/
+#incones_text2{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	background-color:#1338ea ;
+	margin-top: -20px;
+}
+.avion p {
+	color: white;
+}
+.voiture p{
+	color: white;
+}
+.maison p{
+	color: white;
+}
+ .partie_bleue h2{
+	color: white;
+	text-align: center;
+	background-color:#1338ea ;
+}
+.learn{
+	background-color: #ff4c00;
+	border-radius: 110px;
+	width: 110px;
+	color: white;
+	height: 30px;
+}
+#partie_orange{
+	background-color: #ff4c00;
+	margin-top: -20px;
+}
+.image{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	text-align: center;
+	height: 250px;
+}
+.porfolio{
+	color: white;
+}
+#text3_carte{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 100px;
+	width: auto;
+	height: 120px;
+	text-decoration: none;
+
+}
+.CONTACT{
+	color: #1338ea;
+	font-size: 2em;
+}
+/*footer*/
+#footer{
+	text-align: center;
+	background-color: #1338ea;
+	width: auto;
+	height: 70px;
+	color: white;
+}
+/*get_started du header*/
+.get_start{
+	background-color: #ff4c00;
+	border-radius: 110px;
+	width: 110px;
+	color: white;
+	height: 10px;
+}
